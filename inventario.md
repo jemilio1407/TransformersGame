@@ -16,7 +16,7 @@
 
 ## Diego Alejandro Caceres Cabello
 
-## Rol: Diseñador full Stack
+## Rol: Diseñador full Stack.
 
 ![Diego]( assets/diego.jpg)
 
